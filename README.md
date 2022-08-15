@@ -183,7 +183,7 @@ Diode Schottky 45 V 10A Surface Mount CFP15
 
 Series RF Receiver, Galileo, GLONASS, GNSS, GPS -164dBm 9.6kbps 32-LGA (11x11)
 
-[Datasheet](https://www.telit.com/wp-content/uploads/2022/05/Telit_SE868K3-A_AL_Product_Brief.pdf)
+[Datasheet](https://www.digchip.com/datasheets/download_datasheet.php?id=8890806&part-number=SE868K3A232R001000)
 
   
 
